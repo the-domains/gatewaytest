@@ -1,7 +1,7 @@
 name: Gatewaytest
 favicon: null
-layout_spectrum: 0.7779596375767142
-typography_spectrum: 0.806933595566079
+layout_spectrum: 0
+typography_spectrum: 0.73627
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.2587036844342947
-  lightness: 0.40458835614845157
-  saturation: 0.08659159345552325
-  rhythmicContrast: 0.159361771075055
+    - '#118d8b'
+    - '#008080'
+    - '#008b8b'
+    - '#108080'
+    - '#005555'
+  brandStrength: 0.625
+  lightness: 0.4375
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
